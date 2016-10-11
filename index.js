@@ -21,5 +21,3 @@ var handlers = {
   'AMAZON.CancelIntent': customHandlers.cancelIntent,
   'AMAZON.StopIntent': customHandlers.stopIntent
 }
-
-console.log(handlers);
