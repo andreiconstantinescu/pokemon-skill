@@ -24,6 +24,6 @@
   "homepage": "https://github.com/andreiconstantinescu/pokemon-skill#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.6",
-    "pokemon": "^1.0.1"
+    "pokedex-promise-v2": "^3.0.1"
   }
 }

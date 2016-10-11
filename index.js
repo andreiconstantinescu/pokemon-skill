@@ -11,8 +11,6 @@ exports.handler = function (ev, ctx, cb) {
   alexa.execute();
 }
 
-
-
 var handlers = {
   'LaunchRequest': customHandlers.getPokemon,
   'GetPokemonIntent': customHandlers.getPokemon,
